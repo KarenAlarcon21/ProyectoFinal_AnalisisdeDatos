@@ -20,16 +20,16 @@ El proyecto se desarrolló en el marco del **Bootcamp de Análisis de Datos**, a
 
 ## 📌 Índice
 
-- [Definición del problema](#Definición-del-problema)  
-- [Información adicional](#Información-adicional)  
-- [Objetivo General](Objetivo-general)  
-- [Objetivos Específicos](#Objetivos-específicos)  
-- [Análisis de datos](#Análisis-de-datos)  
-  - [Clasificación inicial de variables](#Clasificación-inicial-de-variables)  
-  - [Caracterización sociodemográfica](#Caracterización-sociodemográfica)  
-  - [Factores asociados a la permanencia en calle](#Factores-asociados-a-la-permanencia-en-calle)  
-- [Conclusiones](#Conclusiones)  
-- [Posibles soluciones o mejoras](#Posibles-soluciones-o-mejoras)
+- Definición del problema 
+- Información adicional  
+- Objetivo General  
+- Objetivos Específicos  
+- Análisis de datos  
+  - Clasificación inicial de variables  
+  - Caracterización sociodemográfica  
+  - Factores asociados a la permanencia en calle  
+- Conclusiones  
+- Posibles soluciones o mejoras
 
 ---
 
